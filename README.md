@@ -1,8 +1,8 @@
-Elevator Saga
+CodeElemate
 ===================
-The elevator programming game
+The Updated Elevator Saga Game
 
-[Play it now!](http://play.elevatorsaga.com/)
+[Play it now!](https://auslie.github.io/Codelemate)
 
 Or [Run the unit tests](http://play.elevatorsaga.com/test/)
 
